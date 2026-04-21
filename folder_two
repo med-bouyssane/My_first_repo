@@ -1,3 +1,13 @@
 two
 
 we testing right here
+
+so now cause i made this change here we should have a conflict cause i am changing the same file that was changed in 
+Dev and stg branch but actually they been commited so i dont know if i should also make changes again if i want to 
+see the conflict, ok so let's experiment that, if i show the error that means that those first time changed that 
+they allready have been merged they count, but if not we going to find out what is going to happen, 
+ 
+
+by they way the confilct message should make me choose between to keep this change or the one that i have 
+in the other branches (they merged a while ago) i have this message "ok so" but if i get the error i can also add 
+some other final modifications, so let's find out.
