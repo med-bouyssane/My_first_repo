@@ -2,5 +2,6 @@ two
 
 we testing right here
 
-<<<<<<< HEAD
-ok so ...
+Yeah we get the conflict, and we get the idea as well, so i should not make changes in the same file, then merge
+one to another cause i should to decide wish changes on that file should stay, with other words witch version of 
+the file should stay. so here i am going to commit 
